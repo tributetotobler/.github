@@ -18,9 +18,9 @@ Ceci est le site/dépôt général du programme TTT. </br>
 
 - Bibliographie de Tobler sur [Zotero/TTT](http://www.zotero.org) </br>
 
-- Travaux de Tobler disponibles HAL : [collection TTT](https://tel.archives-ouvertes.fr/TTT/)
+- Collection de travaux faisant suite à Tobler et disponibles en _open access_ : [collection HAL/TTT](https://tel.archives-ouvertes.fr/TTT/)
 
-## Publications
+## Publications, communications, billets, ...
 
 - Billets sur le carnet de recherches Neocarto </br>
 -Présentation de [TTT sur Neocarto](https://neocarto.hypotheses.org/ttt-tobler) </br>
@@ -36,14 +36,14 @@ Ceci est le site/dépôt général du programme TTT. </br>
 
 - Présentations/communications/ateliers de TTT à l'Ecole thématique du CNRS [Transcarto 2021](https://github.com/transcarto)
 
--Françoise Bahoken sur l'[histoire de la cartoflux](https://bit.ly/3Grg9I6)
--Françoise Bahoken sur la [cartoFlux des matrices](https://bit.ly/3ErFS1z)
--Nicolas Lambert sur la [CartoFlux & rhetorique](https://transcarto.github.io/rflows/presentations/CartoFlux.html#1)
--Etienne Côme sur la cartographie des champs vectoriels [Winds](https://transcarto.github.io/rflows/presentations/CartoWinds/TTT_comeetie.html)
--Françoise Bahoken & Nicolas Lambert sur [Faire des cartes de flux dans R](https://transcarto.github.io/rflows/TRANSCARTO_flows.html)
--Etienne Côme sur créér des cartes en champs vectoriels
+-Françoise Bahoken sur l'[histoire de la cartoflux](https://bit.ly/3Grg9I6) </br>
+-Françoise Bahoken sur la [cartoFlux des matrices](https://bit.ly/3ErFS1z) </br>
+-Nicolas Lambert sur la [CartoFlux & rhetorique](https://transcarto.github.io/rflows/presentations/CartoFlux.html#1) </br>
+-Etienne Côme sur la cartographie des champs vectoriels [Winds](https://transcarto.github.io/rflows/presentations/CartoWinds/TTT_comeetie.html) </br>
+-Françoise Bahoken & Nicolas Lambert sur [Faire des cartes de flux dans R](https://transcarto.github.io/rflows/TRANSCARTO_flows.html) </br>
+-Etienne Côme sur créér des cartes en champs vectoriels </br>
 
--Anne-Christine Bronner & Nicolas Lambert [Rcartogrammes]https://github.com/transcarto/rcartograms)
--Alain l'Hostis [L'espace-temps](https://github.com/transcarto/espace-temps)
+-Anne-Christine Bronner & Nicolas Lambert [Rcartogrammes]https://github.com/transcarto/rcartograms) </br>
+-Alain l'Hostis [L'espace-temps](https://github.com/transcarto/espace-temps) </br>
 
 (liste non exhaustive)
