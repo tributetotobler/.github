@@ -18,7 +18,7 @@ Ceci est le site/dépôt général du programme TTT. </br>
 
 - Bibliographie de Tobler sur [Zotero/TTT](http://www.zotero.org) </br>
 
-- Collection de travaux faisant suite à Tobler et disponibles en _open access_ : [collection HAL/TTT](https://tel.archives-ouvertes.fr/TTT/)
+- Collection de travaux faisant suite à Tobler et disponibles en _open access_ : [HAL/TTT](https://tel.archives-ouvertes.fr/TTT/)
 
 ## Publications, communications, billets, ...
 
