@@ -14,13 +14,13 @@ Ceci est le site/dépôt général du programme TTT. </br>
 - [R MapExtrud](https://github.com/neocarto/mapextrud), [vignette](https://neocarto.github.io/mapextrud/vignettes/how-to-build-extruded-maps.html)
 
 
-## Autres dépôts présents ailleurs sur le web
+## Références de Tobler et travaux académiques de TTT
 
 - Bibliographie de Tobler sur [Zotero/TTT](http://www.zotero.org) </br>
 
-- Collection de travaux faisant suite à Tobler et disponibles en _open access_ : [HAL/TTT](https://tel.archives-ouvertes.fr/TTT/)
+- Travaux académiques faisant suite à Tobler et disponibles en _open access_ : [HAL/TTT](https://tel.archives-ouvertes.fr/TTT/)
 
-## Publications, communications, billets, ...
+## Billets et notebooks ...
 
 - Billets sur le carnet de recherches Neocarto </br>
 -Présentation de [TTT sur Neocarto](https://neocarto.hypotheses.org/ttt-tobler) </br>
@@ -34,7 +34,7 @@ Ceci est le site/dépôt général du programme TTT. </br>
 -Nicolas Lambert      </br>
 -Philippe Rivière     </br>
 
-- Présentations/communications/ateliers de TTT à l'Ecole thématique du CNRS [Transcarto 2021](https://github.com/transcarto)
+## Contributins de TTT à l'Ecole thématique du CNRS [Transcarto' 2021](https://github.com/transcarto)
 
 -Françoise Bahoken sur l'[histoire de la cartoflux](https://bit.ly/3Grg9I6) </br>
 -Françoise Bahoken sur la [cartoFlux des matrices](https://bit.ly/3ErFS1z) </br>
