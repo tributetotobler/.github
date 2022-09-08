@@ -5,11 +5,13 @@ Ceci est le site/dépôt général du programme TTT. </br>
 
 ## Accès direct aux dépôts des travaux en cours
 
-- [Bibliométrie](https://github.com/tributetotobler/traductions)
+- [Corpus](https://github.com/tributetotobler/corpus)
+
+- [Bibliométrie](https://github.com/tributetotobler/bibliotobler)
 
 - [Traductions de textes](https://github.com/tributetotobler/traductions)
 
-- [Package R collectif TTT](https://github.com/tributetotobler/ttt)
+- [R collectif TTT](https://github.com/tributetotobler/ttt)
 
 - [R MapExtrud](https://github.com/neocarto/mapextrud), [vignette](https://neocarto.github.io/mapextrud/vignettes/how-to-build-extruded-maps.html)
 
