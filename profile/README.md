@@ -3,6 +3,9 @@
 Ceci est le site/dépôt général du programme TTT. </br>
 [Présentation de TTT](https://geoflowiz.hypotheses.org/ttt-tribute-to-tobler) 
 
+Qui était-ce ? </br>
+Lire l'article de Colette Cauvin (2020) dans [Hypergéo/Waldo Tobler](https://hypergeo.eu/waldo-tobler/).
+
 ## Accès direct aux dépôts des travaux en cours
 
 - [Corpus](https://github.com/tributetotobler/corpus)
