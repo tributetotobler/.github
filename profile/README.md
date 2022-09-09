@@ -21,9 +21,10 @@ Lire l'article de Colette Cauvin (2020) dans [Hypergéo/Waldo Tobler](https://hy
 
 ## Références de Tobler et travaux académiques de TTT
 
-- Bibliographie de Tobler sur [Zotero/TTT](http://www.zotero.org) </br>
+- Bibliographie de Tobler sur [Zotero/TTT](http://www.zotero.org) via une _organisation TTT_ </br>
+(si vous souhaitez la consulter, envoyez votre profil zotero à [Anne-Christine Bronner](mailto:anne-christine.bronner@misha.fr) pour qu'elle vous ajoute à l'organisation. Voir aussi le repo [Corpus](https://github.com/tributetotobler/corpus). 
 
-- Travaux académiques faisant suite à Tobler et disponibles en _open access_ : [HAL/TTT](https://tel.archives-ouvertes.fr/TTT/)
+- Travaux académiques francophones faisant suite à Tobler et disponibles en _open access_ dans la collection [HAL/TTT](https://tel.archives-ouvertes.fr/TTT/).
 
 ## Billets et notebooks ...
 
