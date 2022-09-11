@@ -37,6 +37,7 @@ Lire l'article de Colette Cauvin (2020) dans [Hypergéo/Waldo Tobler](https://hy
 
 - Notebooks sur la plateforme Observable </br>
 -Laurent Jegou [Continuous choropleth](https://observablehq.com/@ljegou/ttt-continuous-choropleth) </br>
+-Etienne Côme [Poisson Potentiel](https://observablehq.com/@comeetie/ttt-poisson-potential)
 -Nicolas Lambert      </br>
 -Philippe Rivière     </br>
 
