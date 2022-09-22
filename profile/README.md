@@ -3,8 +3,8 @@
 Ceci est le site/dépôt général du programme TTT. </br>
 [Présentation de TTT](https://geoflowiz.hypotheses.org/ttt-tribute-to-tobler) 
 
-Qui était-ce ? </br>
-Lire l'article de Colette Cauvin (2020) dans [Hypergéo/Waldo Tobler](https://hypergeo.eu/waldo-tobler/).
+Qui était Waldo R. Tobler ? </br>
+Lire l'article de Colette Cauvin (2020) dans l'encyclopédie en ligne [Hypergéo/Waldo Tobler](https://hypergeo.eu/waldo-tobler/).
 
 ## Accès direct aux dépôts des travaux en cours
 
@@ -21,15 +21,13 @@ Lire l'article de Colette Cauvin (2020) dans [Hypergéo/Waldo Tobler](https://hy
 
 ## Références de Tobler et travaux académiques de TTT
 
-- Bibliographie de Tobler sur [Zotero/TTT](http://www.zotero.org) via une _organisation TTT_ </br>
-(si vous souhaitez la consulter, envoyez votre profil zotero à [Anne-Christine Bronner](mailto:anne-christine.bronner@misha.fr) pour qu'elle vous ajoute à l'organisation. Voir aussi le repo [Corpus](https://github.com/tributetotobler/corpus). 
-
+- Bibliographie collaborative en ligne des travaux de Tobler sur [Zotero](http://www.zotero.org). Il s'agit d'un espace de travail non stabilisé *(work in progress)*. Plus d'informations : repo [Corpus](https://github.com/tributetotobler/corpus).</br>
 - Travaux académiques francophones faisant suite à Tobler et disponibles en _open access_ dans la collection [HAL/TTT](https://tel.archives-ouvertes.fr/TTT/).
 
 ## Billets et notebooks ...
 
 - Billets sur le carnet de recherches Neocarto </br>
--Présentation de [TTT sur Neocarto](https://neocarto.hypotheses.org/ttt-tobler) </br>
+- Présentation de [TTT sur Neocarto](https://neocarto.hypotheses.org/ttt-tobler) </br>
 -Consultation des [Billets](https://neocarto.hypotheses.org/category/tribute-to-tobler)
 
 - Billet sur le blog Comeetie </br>
@@ -59,8 +57,9 @@ Lire l'article de Colette Cauvin (2020) dans [Hypergéo/Waldo Tobler](https://hy
 -Etienne Côme sur la cartographie des champs vectoriels [Winds](https://transcarto.github.io/rflows/presentations/CartoWinds/TTT_comeetie.html) </br>
 -Françoise Bahoken & Nicolas Lambert sur [Faire des cartes de flux dans R](https://transcarto.github.io/rflows/TRANSCARTO_flows.html) </br>
 -Etienne Côme sur créér des cartes en champs vectoriels </br>
-
--Anne-Christine Bronner & Nicolas Lambert [Rcartogrammes]https://github.com/transcarto/rcartograms) </br>
--Alain l'Hostis [L'espace-temps](https://github.com/transcarto/espace-temps) </br>
-
-(liste non exhaustive)
+-Dominique Andrieu, Anne-Christine Bronner Bronner, Karine Hurel, Nicolas Lambert, Marie Laure Trémélo : Les cartogrammes. Concepts, méthodes, applications, outils
+-Anne-Christine Bronner & Nicolas Lambert : [TP Cartogramme avec R]https://github.com/transcarto/rcartograms) </br>
+-Alain l'Hostis, Philippe Rivière, Anne-Christine Bronner, Gilles Vuidel : Comment représenter l’espace temps ? Regards croisés</br>
+-Alain l'Hostis : Comment représenter l’espace temps ? Regards croisés [L'espace-temps. TP Shriveling](https://github.com/transcarto/espace-temps) </br>
+-Anne-Christine Bronner & Gilles Vuidel : TP Anamorphoses vectorielles unipolaires et multipolaires (cartographie de l'espace-temps avec [darcy](https://sourcesup.renater.fr/www/transcarto/darcy/))</br>
+-Anne-Christine Bronner & Gilles Vuidel : mini-démo de [Anaplaste](https://sourcesup.renater.fr/www/transcarto/anaplaste/) (cartes piézoplèthes) et azmap (projection azimutale)
