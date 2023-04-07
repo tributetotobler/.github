@@ -8,6 +8,8 @@ Lire l'article de Colette Cauvin (2020) dans l'encyclopédie en ligne [Hypergéo
 
 ## Accès direct aux dépôts des travaux en cours
 
+- [Bibliographie] sur Zotero
+
 - [Corpus](https://github.com/tributetotobler/corpus)
 
 - [Bibliométrie](https://github.com/tributetotobler/bibliotobler)
@@ -18,6 +20,9 @@ Lire l'article de Colette Cauvin (2020) dans l'encyclopédie en ligne [Hypergéo
 
 - [R MapExtrud](https://github.com/neocarto/mapextrud), [vignette](https://neocarto.github.io/mapextrud/vignettes/how-to-build-extruded-maps.html)
 
+- Observable
+
+- Billet
 
 ## Références de Tobler et travaux académiques de TTT
 
