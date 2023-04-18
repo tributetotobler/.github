@@ -8,7 +8,7 @@ Lire l'article de Colette Cauvin (2020) dans l'encyclopédie en ligne [Hypergéo
 
 ## Accès direct aux dépôts des travaux en cours
 
-- [Bibliographie] sur Zotero
+- [Bibliographie](https://www.zotero.org/) sur Zotero
 
 - [Corpus](https://github.com/tributetotobler/corpus)
 
@@ -20,14 +20,14 @@ Lire l'article de Colette Cauvin (2020) dans l'encyclopédie en ligne [Hypergéo
 
 - [R MapExtrud](https://github.com/neocarto/mapextrud), [vignette](https://neocarto.github.io/mapextrud/vignettes/how-to-build-extruded-maps.html)
 
-- Observable
+- [Observable](https://observablehq.com/@tobler)
 
-- Billet
+- [Billets](https://neocarto.hypotheses.org/category/tribute-to-tobler)
 
 ## Références de Tobler et travaux académiques de TTT
 
-- Bibliographie collaborative en ligne des travaux de Tobler sur [Zotero](http://www.zotero.org). Il s'agit d'un espace de travail non stabilisé *(work in progress)*. Plus d'informations : repo [Corpus](https://github.com/tributetotobler/corpus).</br>
-- Travaux académiques francophones faisant suite à Tobler et disponibles en _open access_ dans la collection [HAL/TTT](https://tel.archives-ouvertes.fr/TTT/).
+- Bibliographie collaborative en ligne des travaux de Tobler sur [Zotero](http://www.zotero.org). Il s'agit d'un espace de travail *(work in progress)*. Plus d'informations : repo [Corpus](https://github.com/tributetotobler/corpus).</br>
+- Travaux académiques francophones faisant suite à Tobler et disponibles en _open access_ dans la collection [HAL/TTT](https://theses.hal.science/TTT/).
 
 ## Billets et notebooks ...
 
@@ -56,7 +56,7 @@ Lire l'article de Colette Cauvin (2020) dans l'encyclopédie en ligne [Hypergéo
 
 ## Contributions de TTT à l'Ecole thématique du CNRS [Transcarto' 2021](https://github.com/transcarto)
 
--Françoise Bahoken sur l'[histoire de la cartoflux](https://bit.ly/3Grg9I6) </br>
+-Françoise Bahoken sur l'[histoire de la cartographie des flux](https://bit.ly/3Grg9I6) </br>
 -Françoise Bahoken sur la [cartoFlux des matrices](https://bit.ly/3ErFS1z) </br>
 -Nicolas Lambert sur la [CartoFlux & rhetorique](https://transcarto.github.io/rflows/presentations/CartoFlux.html#1) </br>
 -Etienne Côme sur la cartographie des champs vectoriels [Winds](https://transcarto.github.io/rflows/presentations/CartoWinds/TTT_comeetie.html) </br>
