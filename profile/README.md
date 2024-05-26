@@ -31,16 +31,15 @@ Lire l'article de Colette Cauvin (2020) dans l'encyclopédie en ligne [Hypergéo
 
 ## Billets et notebooks ...
 
-- Billets sur le carnet de recherches Neocarto </br>
 - Présentation de [TTT sur Neocarto](https://neocarto.hypotheses.org/ttt-tobler) </br>
--Consultation des [Billets](https://neocarto.hypotheses.org/category/tribute-to-tobler)
+**[Billets dans Neocarto](https://neocarto.hypotheses.org/category/tribute-to-tobler)** </br>
 
 - Billet sur le blog Comeetie </br>
--[Winds](https://www.comeetie.fr/galerie/wind/)
+**[Winds](https://www.comeetie.fr/galerie/wind/)**
 
 - Notebooks sur la plateforme Observable </br>
 -Laurent Jegou [Continuous choropleth](https://observablehq.com/@ljegou/ttt-continuous-choropleth) </br>
--Etienne Côme [Poisson Potentiel](https://observablehq.com/@comeetie/ttt-poisson-potential)
+-Etienne Côme [Poisson Potentiel](https://observablehq.com/@comeetie/ttt-poisson-potential) </br>
 -Nicolas Lambert      </br>
 -Philippe Rivière     </br>
 
